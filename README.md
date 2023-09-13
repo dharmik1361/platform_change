@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![dice3](https://github.com/dharmik1361/platform_change/assets/63489702/77a096c0-732b-41f8-a248-0f5a48503a24)
 
 This project is a starting point for a Flutter application.
 
