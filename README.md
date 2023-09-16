@@ -29,7 +29,10 @@ Human Interface Design concepts in a practical and interactive way.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-![Screenshot_2023-09-16-14-22-34-250_com example con_d](https://github.com/dharmik1361/platform_change/assets/63489702/f22fc724-062b-41e0-830c-fda106a08e3b)![Screenshot_2023-09-16-14-23-13-863_com example con_d](https://github.com/dharmik1361/platform_change/assets/63489702/8fc889d9-bb59-4a55-a011-1806ee081bce)
-![Screenshot_2023-09-16-14-23-09-112_com example con_d](https://github.com/dharmik1361/platform_change/assets/63489702/5ef779e7-a255-4b98-87e3-02c57921c843)
-![Screenshot_2023-09-16-14-23-04-569_com example con_d](https://github.com/dharmik1361/platform_change/assets/63489702/e58b3d16-7374-42cc-b78b-3075bab9f03d)
-![Screenshot_2023-09-16-14-23-17-629_com example con_d](https://github.com/dharmik1361/platform_change/assets/63489702/cb23d32e-fd62-4fe4-bcb7-59c7518a1933)
+![Screenshot_2023-09-16-14-29-50-418_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/9f78adfe-9720-45d6-89b8-cd5d5b14f408)
+![Screenshot_2023-09-16-14-29-46-599_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/d65338fd-4f19-4d40-a017-c8454773b539)
+![Screenshot_2023-09-16-14-28-52-023_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/f36fbc79-7556-4e7e-a219-ef75113d9145)
+![Screenshot_2023-09-16-14-30-01-254_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/04a3203d-3c85-41d9-be92-2865d733c98d)
+![Screenshot_2023-09-16-14-29-59-213_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/e8c0273a-e20f-4f1b-b20b-fe240c0e2f5f)
+![Screenshot_2023-09-16-14-29-57-156_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/cf187504-ba23-4462-a25f-0443bf6075a9)
+![Screenshot_2023-09-16-14-29-52-745_com example platform_change](https://github.com/dharmik1361/platform_change/assets/63489702/5fed5ff9-a6a2-48de-b92a-435252cdeae2)
